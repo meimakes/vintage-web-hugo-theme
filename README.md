@@ -1,5 +1,7 @@
 # Vintage Web Hugo Theme
 
+Built by [@meimakes](https://x.com/meimakes)
+
 A nostalgic Hugo theme inspired by late 90s/early 2000s web design with modern functionality. Experience the charm of classic operating system interfaces with contemporary web standards.
 
 ![Theme Preview](https://github.com/meimakes/vintage-web-hugo-theme/blob/master/images/screenshot.png?raw=true)
